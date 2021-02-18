@@ -1,4 +1,4 @@
-                                                      Hi there 👋, I am Eduard
+                                                      Hi there 👋, I am Eduard  	/twitter/url?url=https%3A%2F%2Fshields.io
                                                       And I am Frontend Developer
 
                                                       Skills: VUE JS / **REACT** / JS / HTML / CSS
