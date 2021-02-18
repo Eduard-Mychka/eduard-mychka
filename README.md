@@ -1,5 +1,5 @@
-   ### Hi there 👋, I am Eduard
-   #### And I am Frontend Developer
+    Hi there 👋, I am Eduard
+    And I am Frontend Developer
 
 Skills: VUE JS / **REACT** / JS / HTML / CSS
 
