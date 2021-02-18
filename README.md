@@ -15,4 +15,4 @@ Skills: VUE JS / **REACT** / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/Eduard-Mychka)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduard-Mychka&show_icons=true&theme=radical)
