@@ -3,7 +3,7 @@
 
 ### Skills: VUE JS / **REACT** / JS / HTML / CSS
 
-![And I am Frontend Developer](https://media-exp1.licdn.com/dms/image/C4E16AQEadg5YlHYAVg/profile-displaybackgroundimage-                                                           shrink_350_1400/0/1613413424466?e=1619049600&v=beta&t=YsVgrhIyVwIJeDaWDuzfRVBnQ2sKOSEEuldPvkmcQgU)
+![And I am Frontend Developer](https://media-exp1.licdn.com/dms/image/C4E16AQEadg5YlHYAVg/profile-displaybackgroundimage-shrink_350_1400/0/1613413424466?e=1619049600&v=beta&t=YsVgrhIyVwIJeDaWDuzfRVBnQ2sKOSEEuldPvkmcQgU)
 
 
 
