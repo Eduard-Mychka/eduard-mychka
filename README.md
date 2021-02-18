@@ -1,3 +1,4 @@
+### ![Profile views](https://gpvc.arturio.dev/Eduard-Mychka)
 ### Hi there 👋, I am Eduard     
 ### And I am Frontend Developer
 
@@ -5,13 +6,9 @@
 
 ![And I am Frontend Developer](https://media-exp1.licdn.com/dms/image/C4E16AQEadg5YlHYAVg/profile-displaybackgroundimage-shrink_350_1400/0/1613413424466?e=1619049600&v=beta&t=YsVgrhIyVwIJeDaWDuzfRVBnQ2sKOSEEuldPvkmcQgU)
 
-![And I am Frontend Developer](https://media-exp1.licdn.com/dms/image/C4D16AQHHLDpenVjUww/profile-displaybackgroundimage-shrink_350_1400/0/1589051646551?e=1619049600&v=beta&t=8Dy0YU6aKT5MNAaFVfhreU3N2TG7euMHUmcpW5EEs_U)
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Eduard-Mychka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eduard-mychka-3055851a4//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/Eduard-Mychka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/edkowich)  
-
-![Profile views](https://gpvc.arturio.dev/Eduard-Mychka)  
+  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduard-Mychka&show_icons=true&theme=radical)
 
