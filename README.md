@@ -1,5 +1,4 @@
-### Hi there 👋
-[![Header](https://www.pexels.com/photo/three-men-standing-near-waterfalls-2387873/)]
+# Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
