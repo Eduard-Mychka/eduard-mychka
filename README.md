@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Eduard
 #### And I am Frontend Developer
-![And I am Frontend Developer](https://i.gifer.com/2of.gif)
+![And I am Frontend Developer](<iframe src="https://gifer.com/embed/2of" width=480 height=270.169 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>)
 
 
 Skills: VUE JS / **REACT** / JS / HTML / CSS
