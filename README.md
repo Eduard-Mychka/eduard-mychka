@@ -1,6 +1,6 @@
-[!][Hi there 👋, I am Eduard](/twitter/url?url=https%3A%2F%2Fshields.io)
-And I am Frontend Developer
-Skills: VUE JS / **REACT** / JS / HTML / CSS
+### Hi there 👋, I am Eduard
+### And I am Frontend Developer
+### Skills: VUE JS / **REACT** / JS / HTML / CSS
 
 ![And I am Frontend Developer](https://i.gifer.com/2of.mp4)
 
