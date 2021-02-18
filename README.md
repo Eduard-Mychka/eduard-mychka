@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Eduard
 #### And I am Frontend Developer
-![And I am Frontend Developer](https://i.gifer.com/2of.gif)
+![And I am Frontend Developer](https://www.pexels.com/photo/matrix-background-1089438/)
 
 
 Skills: VUE JS / **REACT** / JS / HTML / CSS
