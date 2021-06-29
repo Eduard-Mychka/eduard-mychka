@@ -2,7 +2,7 @@
 ### Hi there 👋, I am Eduard   
 ### And I am Frontend Developer    
 ### Skills: VUE JS / **REACT** / JS / HTML / CSS
-![And I am Frontend Developer](https://media-exp1.licdn.com/dms/image/C4E16AQEadg5YlHYAVg/profile-displaybackgroundimage-shrink_350_1400/0/1613413424466?e=1619049600&v=beta&t=YsVgrhIyVwIJeDaWDuzfRVBnQ2sKOSEEuldPvkmcQgU)
+![And I am Frontend Developer](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Fnature%2Fgalaxy&psig=AOvVaw1PQRUjalTXa2AR60NlaMOO&ust=1625061073025000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKCFn7j-vPECFQAAAAAdAAAAABAE)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduard-Mychka&show_icons=true&theme=radical)   
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
