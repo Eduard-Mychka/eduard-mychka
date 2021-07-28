@@ -1,6 +1,6 @@
 ### ![Profile views](https://gpvc.arturio.dev/Eduard-Mychka)   
 ### Hi there 👋, I am Eduard   
-### And I am Frontend Developer    
+### And I am React Front-end Developer    
 ### Skills: / **React** / Redux / JS / HTML / CSS
 ![And I am Frontend Developer](https://cdnp0.stackassets.com/7e7eaf47f0d339759eb81defba0895a977d73875/store/3d2bca94e6bc7a8edf3379decf4a65219a8acd04690fb34998da84af40b3/sale_19347_primary_image_wide.jpg)
 
