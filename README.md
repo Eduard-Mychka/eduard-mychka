@@ -1,7 +1,40 @@
-### ![Profile views](https://gpvc.arturio.dev/Eduard-Mychka)   
-### Hi there 👋, I am Eduard   
-### And I am React Front-end Developer    
-### Skills: / **React** / Redux / JS / HTML / CSS
-![And I am Frontend Developer](https://cdnp0.stackassets.com/7e7eaf47f0d339759eb81defba0895a977d73875/store/3d2bca94e6bc7a8edf3379decf4a65219a8acd04690fb34998da84af40b3/sale_19347_primary_image_wide.jpg)
+# Hey, I'm Eduard 👋
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eduard-mychka-3055851a4//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/Eduard-Mychka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/edkowich)
+**Frontend Developer** from Ukraine 🇺🇦
+
+I build web applications with modern JavaScript/TypeScript stacks. Over a year of commercial experience at [SKELAR](https://skelar.tech) — one of Ukraine's top IT companies. I value clean code, great UX, and strong teamwork.
+
+---
+
+### Tech I work with
+
+```
+Frontend       React · Vue.js 3 · TypeScript · JavaScript (ES6+)
+Styling        Tailwind CSS · SCSS/SASS · CSS Flexbox/Grid
+State          TanStack Query · Pinia · Redux
+UI Libraries   shadcn/ui · Ant Design · Radix UI · Reka UI
+Validation     Zod
+Routing        Vue Router · React Router · TanStack Router
+Build          Vite · Webpack · Turborepo
+API & Data     REST API · Axios · tRPC · Drizzle ORM
+Testing        Vitest
+Tooling        Git · GitHub · npm · pnpm · ESLint · Prettier
+Design         Figma
+```
+
+---
+
+### Featured Projects
+
+| Project | Stack | Link |
+|---------|-------|------|
+| **Stepsnaps** — full-stack monorepo app | React 19, TypeScript, TanStack Start, tRPC, Tailwind CSS, shadcn/ui, Drizzle ORM, PostgreSQL, Zod, Turborepo | [GitHub](https://github.com/nick-mychka/stepsnaps) |
+| **IOYou** — Vue.js web application | Vue 3, TypeScript, TanStack Vue Query, TanStack Vue Table, Pinia, Zod, Tailwind CSS, Vitest | [Live](https://ioyou.vercel.app) · [GitHub](https://github.com/nick-mychka/ioyou) |
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduard-mychka-3055851a4/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/edkowich)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Eduard-Mychka)
