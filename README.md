@@ -35,6 +35,6 @@ Design         Figma
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/едуард-мичка-3055851a4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B5%D0%B4%D1%83%D0%B0%D1%80%D0%B4-%D0%BC%D0%B8%D1%87%D0%BA%D0%B0-3055851a4/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/edkowich)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Eduard-Mychka)
